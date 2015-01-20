@@ -1,0 +1,24 @@
+[33mcommit c2025fafea94954bf9cba4fdeb586411444c015f[m
+Author: stefanbanu <stefanbanu1@gmail.com>
+Date:   Tue Jan 20 21:01:59 2015 +0200
+
+    testing git
+
+[33mcommit eaf6db6df2e8b63b12590091cc193ab3b7df1c1e[m
+Merge: 508e795 6d23d58
+Author: Stefan Banu <stefanbanu1@gmail.com>
+Date:   Mon Jan 19 13:06:13 2015 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 508e79502279ad868d60634f6b652ffde59508a9[m
+Author: Stefan Banu <stefanbanu1@gmail.com>
+Date:   Mon Jan 19 13:05:07 2015 +0200
+
+    First commit
+
+[33mcommit 6d23d583753a7a36f5374e5e03322f1d30855c39[m
+Author: Stefan Banu <stefanbanu@users.noreply.github.com>
+Date:   Sun Jan 18 13:02:42 2015 +0200
+
+    Initial commit
